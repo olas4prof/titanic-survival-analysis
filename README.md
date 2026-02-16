@@ -26,11 +26,11 @@ Python was used for data cleaning and analysis, while Power BI was used to creat
 ```
 titanic-survival-analysis
 │
-├── data                # dataset
-├── notebooks           # analysis notebook
-├── scripts             # reusable python functions
-├── images              # dashboard screenshots
-└── powerbi             # Power BI dashboard
+├── data
+├── notebooks
+├── scripts
+├── images
+└── powerbi
 ```
 
 ---
@@ -38,8 +38,7 @@ titanic-survival-analysis
 ## Key Insights
 - Females had significantly higher survival rate than males
 - First class passengers survived more than lower classes
-- Children had higher survival probability
-- Majority of passengers were between young adult age range
+- Younger passengers had better survival chances
 
 ---
 
